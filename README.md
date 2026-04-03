@@ -50,17 +50,6 @@ Git | GitHub | Linux
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **AI JobPrep**  
-AI-powered interview prep & resume builder with smart analysis  
-
-🔹 **HandMath**  
-Hand gesture-based real-time math equation solver  
-
-🔹 **Blog Platform (MERN)**  
-Role-based blogging system with secure authentication  
-
 ---
 
 ## 📬 Let's Connect
