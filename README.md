@@ -14,9 +14,9 @@ I believe in learning by doing — whether it's solving DSA problems, building s
 ---
 
 ## 🚀 What I'm Currently Doing
-🌱 Exploring **Cloud Computing & scalable system design**  
+🌱 Exploring **AI & Learning New Things**  
 🔨 Building **AI-powered applications & full stack projects**  
-🧠 Practicing **Data Structures & Algorithms** regularly  
+🧠 Practicing **Data Structures & Algorithms ** regularly  
 🤝 Looking for **internships & collaboration opportunities**  
 
 ---
@@ -24,7 +24,7 @@ I believe in learning by doing — whether it's solving DSA problems, building s
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Java | Python | JavaScript | C  
+Java | Python | JavaScrip | C  
 
 **Frontend:**  
 HTML | CSS | Tailwind CSS | React.js  
@@ -37,18 +37,6 @@ MongoDB | MySQL | Firebase | Oracle
 
 **Tools & Platforms:**  
 Git | GitHub | Linux  
-
----
-
-## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash17IT&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yash17IT&theme=tokyonight)
-
----
 
 ---
 
